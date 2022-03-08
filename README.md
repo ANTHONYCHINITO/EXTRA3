@@ -29,6 +29,7 @@ OBJETIVO ESPECIFICOS:
 
 ![Untitled (8)](https://user-images.githubusercontent.com/93900233/157185743-5d6a2a57-3c8f-4d8c-a1b3-987d784b4518.jpg)
 
+![image](https://user-images.githubusercontent.com/93900233/157245474-f43e88a5-8075-49f6-89dd-31854b13a957.png)
 
 # CONCLUSIONES:
 
