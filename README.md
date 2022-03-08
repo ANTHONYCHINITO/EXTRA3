@@ -31,6 +31,8 @@ OBJETIVO ESPECIFICOS:
 
 ![image](https://user-images.githubusercontent.com/93900233/157245474-f43e88a5-8075-49f6-89dd-31854b13a957.png)
 
+![image](https://user-images.githubusercontent.com/93900233/157249158-2b1fc843-9e0c-4af4-929c-096b58adff65.png)
+
 # NODOS IMPORTANTES
 
 ![image](https://user-images.githubusercontent.com/93900233/157247944-08acbaf3-5dec-45d7-80fd-940e35f3a611.png)
