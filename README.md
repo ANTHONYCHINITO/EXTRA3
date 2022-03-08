@@ -31,6 +31,8 @@ OBJETIVO ESPECIFICOS:
 
 ![image](https://user-images.githubusercontent.com/93900233/157245474-f43e88a5-8075-49f6-89dd-31854b13a957.png)
 
+# NODO 
+
 ![image](https://user-images.githubusercontent.com/93900233/157249158-2b1fc843-9e0c-4af4-929c-096b58adff65.png)
 
 # NODOS IMPORTANTES
@@ -42,6 +44,10 @@ OBJETIVO ESPECIFICOS:
 ![image](https://user-images.githubusercontent.com/93900233/157248079-7fc8d1d4-7cba-45c6-b156-c833c0b14a9e.png)
 
 ![image](https://user-images.githubusercontent.com/93900233/157248113-05c54226-c2c9-40c3-9b8f-cc4f04b8bf1f.png)
+
+# BARRA LATERAL O PANEL
+
+![image](https://user-images.githubusercontent.com/93900233/157250137-f7283da6-d5f4-4ade-be3e-2ba9d0e372ae.png)
 
 # CONCLUSIONES:
 
