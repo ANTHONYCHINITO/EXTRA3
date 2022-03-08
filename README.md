@@ -55,9 +55,9 @@ OBJETIVO ESPECIFICOS:
 
 # CONCLUSIONES:
 
--  NODE-RED es  una  manera  excelente  para la programacion en bloques de  la misma 
--  Se supo el funcionamiento tanto de un pin de salida  como de entrada dependiendo del circuito a ejecutar 
--  Los pines GPIO son digitales, lo que significa que sólo pueden tener dos estados, apagado o encendido.
+-  Se concluye que la paltaforma NODE-RED es  una  manera  excelente  para la programacion en bloques de  la misma 
+-  Se llego a la conclcusion del funcionamiento tanto de un pin de salida  como de entrada dependiendo del circuito a ejecutar 
+-  En conclusion los pines GPIO son digitales, lo que significa que sólo pueden tener dos estados, apagado o encendido.
 
 # BIBLIOGRAFIAS:
 
