@@ -15,15 +15,29 @@ OBJETIVO ESPECIFICOS:
 
  # MARCO TEORICO :
 
+![Untitled (2)](https://user-images.githubusercontent.com/93900233/157179482-474ccd89-c034-47da-adb5-b2c2bf34511a.jpg)
+
+![Untitled (3)](https://user-images.githubusercontent.com/93900233/157184289-6c10361a-337c-45ba-88c1-b7601d32b793.jpg)
+
+![Untitled (4)](https://user-images.githubusercontent.com/93900233/157184307-c5ea9406-a50a-4fdf-8434-0b8990f1863c.jpg)
+
+![Untitled (5)](https://user-images.githubusercontent.com/93900233/157184328-e0bdea8a-fd21-42ff-85e2-890dd599cb87.jpg)
+
+![Untitled (6)](https://user-images.githubusercontent.com/93900233/157184349-39a05c58-5b4f-4089-9441-c3d8c3486dff.jpg)
+
+
+
+
+
 
  # PROCEDIMIENTO :
  
-
+# Primeros Pasos con el Node-Red
 
  
 # VIDEO:
 
-https://www.youtube.com/watch?v=3nS-rYlDycY
+
 
 # CONCLUSIONES:
 
