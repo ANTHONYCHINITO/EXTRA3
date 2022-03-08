@@ -9,8 +9,8 @@ OBJETIVO ESPECIFICOS:
 
 - Manipular la plataforma NODE-RED y su funcionamiento.
 
--  Realizar el circuito de control sobre el encendido de un led 
-- 
+- Realizar el circuito de control sobre el encendido de un led 
+
 - Aprender como funcionan los pines de una raspberry y como se ejecutan 
 
  # MARCO TEORICO :
@@ -34,7 +34,7 @@ OBJETIVO ESPECIFICOS:
 
 -  NODE-RED es  una  manera  excelente  para la programacion en bloques de  la misma 
 -  Se supo el funcionamiento tanto de un pin de salida  como de entrada dependiendo del circuito a ejecutar 
--  Tanto BLOCKLYDUINO como TINKERCAD son herramientas que me sirvio para para corregir y evitar  errores antes deuna simulacion real.
+-  Los pines GPIO son digitales, lo que significa que sólo pueden tener dos estados, apagado o encendido.
 
 # BIBLIOGRAFIAS:
 
