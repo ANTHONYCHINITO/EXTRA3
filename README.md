@@ -49,6 +49,10 @@ OBJETIVO ESPECIFICOS:
 
 ![image](https://user-images.githubusercontent.com/93900233/157250137-f7283da6-d5f4-4ade-be3e-2ba9d0e372ae.png)
 
+# FLOW O FLUJO
+
+![image](https://user-images.githubusercontent.com/93900233/157251213-6c3a1f0d-8c0f-48b5-a780-b34e5c8eaf44.png)
+
 # CONCLUSIONES:
 
 -  NODE-RED es  una  manera  excelente  para la programacion en bloques de  la misma 
