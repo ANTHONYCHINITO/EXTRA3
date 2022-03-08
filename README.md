@@ -31,6 +31,16 @@ OBJETIVO ESPECIFICOS:
 
 ![image](https://user-images.githubusercontent.com/93900233/157245474-f43e88a5-8075-49f6-89dd-31854b13a957.png)
 
+# NODOS IMPORTANTES
+
+![image](https://user-images.githubusercontent.com/93900233/157247944-08acbaf3-5dec-45d7-80fd-940e35f3a611.png)
+
+![image](https://user-images.githubusercontent.com/93900233/157247995-c800c5bd-6e35-421a-a7b5-363825584df6.png)
+
+![image](https://user-images.githubusercontent.com/93900233/157248079-7fc8d1d4-7cba-45c6-b156-c833c0b14a9e.png)
+
+![image](https://user-images.githubusercontent.com/93900233/157248113-05c54226-c2c9-40c3-9b8f-cc4f04b8bf1f.png)
+
 # CONCLUSIONES:
 
 -  NODE-RED es  una  manera  excelente  para la programacion en bloques de  la misma 
