@@ -38,3 +38,11 @@ OBJETIVO ESPECIFICOS:
 
 # BIBLIOGRAFIAS:
 
+- APOLO, E. (2021). Obtenido de https://dspace.ups.edu.ec/bitstream/123456789/20298/1/UPS-CT009142.pdf
+- PACHECO, A. (2015). Obtenido de https://www.dspace.espol.edu.ec/retrieve/dad603aa-8dc5-40a6-8aea-38b94051aa47/D-103261.pdf
+- programoergosum. (26 de OCTUBRE de 2019). Obtenido de https://www.programoergosum.es/tutoriales/introduccion-a-pines-gpio-en-raspbian/
+- SALVADOR GARCIA. (3 de DICIEMBERE de 2018). Obtenido de https://riunet.upv.es/bitstream/handle/10251/114979/memoria_73660356.pdf?sequence=1&isAllowed=y
+- SANTAMARIA, P. (23 de MARZO de 2020). eloutput. Obtenido de https://eloutput.com/productos/domotica/raspberry-pi-pines-connexion-gpio/
+
+
+
