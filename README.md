@@ -3,15 +3,15 @@ EXTRA3
 
 # OBJETIVO GENERAL:
 
-- Aprender y explicar los pines de entrada y salida en un arduino 1 R3 mediante la aplicacion BLOCKLYDUINO Y una simulacion virtual en la plataforma tinkercad para eviatar complicaciones en una simulacion real 
+Aprender como funcionan los pines de una raspberry mediante una investigacion para saber su funcionamiento en cada pin.
 
 OBJETIVO ESPECIFICOS:
 
-- Conocer y manipular la plataforma BLOCKLYDUINO para la programacion del circuito 
+- Manipular la plataforma NODE-RED y su funcionamiento.
 
-- Saber el funcionamiento de la programcion en bloques en la plataforma  BLOCKLYDUINO
-
-- Conocer como funcionan los pines de un arduino y como se ejecutan 
+-  Realizar el circuito de control sobre el encendido de un led 
+- 
+- Aprender como funcionan los pines de una raspberry y como se ejecutan 
 
  # MARCO TEORICO :
 
@@ -30,20 +30,9 @@ OBJETIVO ESPECIFICOS:
 ![Untitled (8)](https://user-images.githubusercontent.com/93900233/157185743-5d6a2a57-3c8f-4d8c-a1b3-987d784b4518.jpg)
 
 
-
-
- # PROCEDIMIENTO :
- 
-# Primeros Pasos con el Node-Red
-
- 
-# VIDEO:
-
-
-
 # CONCLUSIONES:
 
--  BLOCKLYDUINO es  una  manera  excelente  para comezar a programar ya que te facilita la programacion en bloques y lo transcribe a programacion en texto 
+-  NODE-RED es  una  manera  excelente  para la programacion en bloques de  la misma 
 -  Se supo el funcionamiento tanto de un pin de salida  como de entrada dependiendo del circuito a ejecutar 
 -  Tanto BLOCKLYDUINO como TINKERCAD son herramientas que me sirvio para para corregir y evitar  errores antes deuna simulacion real.
 
